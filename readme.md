@@ -31,7 +31,7 @@ _Bootstrap3_
 
 ### License
 
-*This calculator app is licensed under the MIT License*
+*This animal page is licensed under the MIT License*
 
 Copyright (c) 2018 **_William Kulha_**
 
