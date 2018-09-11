@@ -1,0 +1,27 @@
+.panelpic {
+  height: 15em;
+  width:15em;
+}
+
+.articlepic {
+  float:left;
+  margin:10px;
+  border:1px, solid, #000;
+  height:250px;
+  width:250px;
+}
+
+#snake, #panda, #crane {
+  display:none;
+}
+
+.clickable {
+  border-radius:50%;
+}
+.clickable:hover {
+  cursor:pointer;
+  border-style:solid;
+  border-radius:5px;
+  border-color: blue;
+
+}
